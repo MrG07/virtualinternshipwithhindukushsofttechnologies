@@ -1,0 +1,27 @@
+
+
+Asalamualaiikum, on the Day 33 of this Amazing Virtual Internship
+
+
+Aaj humne React ka aik chhota aur fun project banaya,,, Counter App with Theme Toggle. Yeh project React ke basic concept 
+“useState Hook” par based hai. React aik JavaScript library hai jo dynamic aur interactive user interfaces banane ke liye 
+use hoti hai, aur useState ka kaam hota hai — web page ke andar changing data ko control karna.
+
+App.js ke andar humne pehle useState import kiya. Phir humne do state variables banaye:
+
+count — jo number rakhta hai (0 se start hota hai),
+isDark — jo theme (light/dark) ko control karta hai.
+
+Har button ke click par humne functions lagaye — ek count ko increase karta hai, doosra decrease, aur teesra reset. Theme toggle button background 
+aur text color ko change karta hai, jis se app modern aur interactive lagti hai.
+
+CSS bohot simple rakha taake color aur layout easily samjha jaa sake. Agar user “Toggle Theme” button par click karta hai, toh React automatically 
+screen ko update karta hai bina page reload ke — yeh React ke reactivity system ki wajah se hota hai.
+
+
+
+Link to Github Repo:
+
+
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.

@@ -12,7 +12,6 @@ aur components ka concept samajhne me madad mili.
 
 
 
-https://github.com/MrG07/projectsforthevirtualinternship/tree/main/hello-chitral
-
+https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies/tree/main/Day%2031/hello-chitral
 
 Thank You to the Amazing Sir. Atta, and HindukushSoft Technologies, for this Opportunity.
