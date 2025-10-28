@@ -1,0 +1,15 @@
+
+
+Asalamualaiikum, on the Day 21 of this Amazing Virtual Internship
+
+Aaj maine ek chhota DOM task kiya jisme maine HTML elements ka content JavaScript se change karna seekha. 
+Page me ek heading aur ek paragraph tha, dono pehle Einstein’s Story likha hua tha. Jab user “Change Story” 
+button click karta hai, to function changeContent() run hota hai.
+
+Is function me maine getElementById("heading1") se heading select ki aur querySelector(".paragraph") se 
+paragraph select kiya. Phir maine .innerHTML use karke dono ka content change kar diya, Einstein ki kahani 
+ki jagah Nikola Tesla’s Story likha gaya aur paragraph me Tesla ka emotional message show hua.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

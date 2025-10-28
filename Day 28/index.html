@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Steganography App UI</title>
+
+<style>
+  body {
+  font-family: Poppins, sans-serif;
+  background: #f4f6fa;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #2d3436;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+
+.container {
+  width: 90%;
+  max-width: 700px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: rgb(29, 28, 28);
+}
+
+.mode-switch {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.mode-switch button {
+  background: #636e72;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.mode-switch button:hover {
+  background: #0984e3;
+}
+
+.app-section label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+input[type="file"], textarea {
+  width: 100%;
+  margin-top: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+textarea {
+  resize: none;
+  height: 120px;
+}
+
+.action-btn {
+  background: #0984e3;
+  color: white;
+  border: none;
+  margin-top: 15px;
+  padding: 10px 25px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.action-btn:hover {
+  background: #74b9ff;
+}
+
+.output-section {
+  margin-top: 30px;
+}
+
+.output-box {
+  background: #f1f2f6;
+  border-radius: 6px;
+  padding: 15px;
+  min-height: 100px;
+}
+
+
+</style>
+
+
+</head>
+<body>
+
+  <header>
+    <h1>Steganography App</h1>
+  </header>
+
+  <div class="container">
+    <div class="mode-switch">
+      <button id="encodeBtn">Encode</button>
+      <button id="decodeBtn">Decode</button>
+    </div>
+
+    <div class="app-section">
+      <label>Upload Image:</label>
+      <input type="file" accept="image/*">
+
+      <label>Message:</label>
+      <textarea placeholder="Enter secret message here..."></textarea>
+
+      <button class="action-btn">Hide Message</button>
+    </div>
+
+    <div class="output-section">
+      <h3>Output:</h3>
+      <div class="output-box"></div>
+    </div>
+  </div>
+
+</body>
+</html>

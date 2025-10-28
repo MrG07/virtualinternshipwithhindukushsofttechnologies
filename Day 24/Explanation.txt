@@ -1,0 +1,33 @@
+
+
+Asalamualaiikum, on the Day 24 of this Amazing Virtual Internship
+
+
+Aaj maiiine ek GPA Calculator banaya jisme user apne 4 subjects ka GPA enter karke average calculate kar sakta hai. 
+Isme maine HTML, CSS aur JavaScript tino ka use kiya. HTML part me sabse pehle ek heading “GPA Calculator” likha 
+gaya, phir ek container banaya jisme chaar input boxes diye gaye hain. Har input field me user apna subject GPA 
+likh sakta hai. type="number" sirf numbers lene ke liye use hua hai, aur min="0" aur max="4" se limit set ki gayi 
+hai taake user 0 se 4 ke beech hi value likhe. step="0.01" decimal values allow karta hai jaise 3.75.
+
+Phir ek button banaya gaya hai jisme onclick="calculateGPA()" likha gaya hai — jab user button click karta hai, 
+to JavaScript ka function run hota hai.
+
+CSS part me maine page ko simple aur clean banaya: background me purple gradient diya, white container center me 
+rakha with padding, rounded corners, aur blue button style. Input fields ko soft border aur 
+spacing di gayi taake form organized lage.
+
+JavaScript part me maine calculateGPA() function banaya. Is function me:
+ 
+  a. document.getElementById('sub#').value se sab inputs liye gaye.
+  b. parseFloat() use kiya taake string value number me convert ho jaye.
+  c. Phir total nikaal kar 4 se divide kiya (kyunki 4 subjects hain).
+  d. toFixed(2) result ko 2 decimal tak round karta hai.
+  e. innerText use karke result green color me screen pe show kiya gaya.
+
+Is task se maine seekha ke DOM elements ko kaise JavaScript se access karte hain, input values read karke unpe calculation 
+karte hain, aur result ko dynamically display karte hain.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

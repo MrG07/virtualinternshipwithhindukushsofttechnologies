@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Google</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+    }
+
+    /* hya logoo google ar donwloed ditii hya set koriisum aur img a tan hya dosi, which will be easier than giving text */
+    .logo img {
+      margin-top: 15vh;
+      width: 272px; 
+      height: auto;
+    }
+
+    /* Search bar hya hotn top a margin set kom */
+    .search-box {
+      margin-top: 20px;
+    }
+     /* hnsn, he text area o select koko bachn hya  aur hotn phuk professional look dom*/
+    .search-box input[type="text"] {
+      width: 500px;
+      padding: 12px 20px;
+      border-radius: 25px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+
+    /* hya he buttons an class o tn margin domn */
+    .buttons {
+      margin-top: 20px;
+    }
+
+    /* hya, he button an just as in google home page, hetn decorate kosii */
+    .buttons input {
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      background: #f2f2f2;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .buttons input:hover {
+      background: #e6e6e6;
+    }
+
+    /* here we will set the footer, aur bo shelii korii,  */
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background: #f2f2f2;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      color: #5f6368;
+    }
+
+    footer .left, footer .right {
+      margin: 0 20px;
+    }
+
+    footer a {
+      color: #5f6368;
+      margin: 0 10px;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    <img src="logo.jpg" alt="Google Logo">
+  </div>
+
+  <!-- hyaa espa search box sherrrrr -->
+  <div class="search-box">
+    <input type="text" placeholder="Search Google or type a URL">
+  </div>
+
+  <!-- hamit he search box ar muxii buttons -->
+  <div class="buttons">
+    <input type="submit" value="Google Search">
+    <input type="submit" value="I'm Feeling Lucky">
+  </div>
+
+  <!-- hya espa footer, left aur right footer, -->
+  <footer>
+    <div class="left">
+      <a href="#">Advertising</a>
+      <a href="#">Business</a>
+      <a href="#">About</a>
+    </div>
+    <div class="right">
+      <a href="#">Privacy</a>
+      <a href="#">Terms</a>
+      <a href="#">Settings</a>
+    </div>
+  </footer>
+</body>
+</html>

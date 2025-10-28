@@ -1,0 +1,240 @@
+
+
+/* sab element aur unke before aur after parts ka box-sizing border-box banaya, 
+   aur font family ko Roboto/Arial set kia */
+   
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+/* body ke default margin hata ke 10px margin dii */
+body {
+  margin: 10px;
+}
+
+/* video-section ko grid banaya, minimum 250px ka column aur max 5fr rakha,
+   columns ke darmiyan gap aur andar padding set ki */
+.video-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 5fr));
+  gap: 5rem 3rem;
+  padding: 2rem 8rem;
+  margin: 0 1.5rem;
+  border-top: 4px solid #CCC;
+}
+
+/* first video-section ka top border remove kia */
+.video-section:first-child {
+  border-top: none;
+}
+
+/* har video-container ko flex column layout banaya */
+.video-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* thumbnail ko relative banaya, taa k andar absolute element place ho ske */
+.thumbnail {
+  position: relative;
+  display: flex;
+}
+
+/* thumbnail ke corner pe video duration dikhane ke liye pseudo-element banaya */
+.thumbnail::before {
+  content: attr(data-duration);
+  position: absolute;
+  background-color: rgba(0, 0, 0, .85);
+  color: white;
+  right: 5px;
+  bottom: 5px;
+  padding: .1em .3em;
+  border-radius: .3em;
+  font-size: .9rem;
+}
+
+/* thumbnail image ko 100% size diya, min width/height set ki aur background gray rakha */
+.thumbnail-image {
+  width: 100%;
+  height: 100%;
+  min-width: 250px;
+  min-height: 150px;
+  background-color: #AAA;
+}
+
+/* video bottom section ko flex row banaya, aur margin top add ki */
+.video-bottom-section {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+/* channel icon ko gol banaya aur size fix rakha */
+.channel-icon {
+  margin-right: .75rem;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  background-color: #AAA;
+}
+
+/* video details ko column banaya */
+.video-details {
+  display: flex;
+  flex-direction: column;
+}
+
+/* video title ko bold aur black text banaya */
+.video-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: .5rem;
+  text-decoration: none;
+  color: black;
+}
+
+/* channel name ke neeche thoda margin aur hover pe color change */
+.video-channel-name {
+  margin-bottom: .1rem;
+  text-decoration: none;
+  transition: color 150ms;
+}
+.video-channel-name:hover {
+  color: #111;
+}
+
+/* channel name aur metadata dono ka rang gray rakha */
+.video-channel-name,
+.video-metadata {
+  color: #555;
+}
+
+/* section title ko poora grid width me phaila kar flex layout banaya */
+.video-section-title {
+  grid-column: 1 / -1;
+  margin: -.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 .5rem;
+}
+
+/* section close button ko styling di aur cursor pointer banaya */
+.video-section-title-close {
+  border: none;
+  background: none;
+  padding: 0;
+  font-size: 2rem;
+  color: #555;
+  cursor: pointer;
+}
+
+/* videos background ko halka gray rakha */
+.videos {
+  background-color: #F9F9F9;
+}
+
+/* categories bar ko padding aur border di */
+.categories {
+  padding: 1rem 2rem;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+}
+
+/* categories ko flex row banaya aur overflow hidden rakha */
+.category-section {
+  display: flex;
+  overflow: hidden;
+}
+
+/* category buttons ko pill shape banaya aur hover effect di */
+.category {
+  margin-right: 1rem;
+  word-wrap: none;
+  white-space: nowrap;
+  border: 1px solid #CCC;
+  border-radius: 900px;
+  background-color: #E7E7E7;
+  padding: .5rem 1rem;
+  font-size: inherit;
+  cursor: pointer;
+  transition: background-color 150ms;
+}
+.category:hover {
+  background-color: #DDD;
+}
+
+/* active category ka rang dark aur text white rakha */
+.category.active {
+  background-color: #606060;
+  color: white;
+  border-color: #EEE;
+}
+
+/* last category ka margin right remove kia */
+.category:last-child {
+  margin-right: 0;
+}
+
+/* header ko flex banaya, left aur right elements space-between kia */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+/* youtube logo ki height fix ki */
+.youtube-logo {
+  height: 20px;
+}
+
+/* search bar ko flex grow banaya taa k zyada space le */
+.search-bar {
+  display: flex;
+  flex-grow: 1;
+  margin: 0 2rem 0 4rem;
+}
+
+/* search input ko 100% width aur left side rounded corners diye */
+.search-input {
+  width: 100%;
+  font-size: inherit;
+  padding: .4em;
+  border: 1px solid #777;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* search button ko input ke sath align kia aur hover pe background change */
+.search-btn {
+  display: flex;
+  align-items: center;
+  padding: 0 1.25rem;
+  border: 1px solid #777;
+  background-color: #F8F8F8;
+  border-left: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  cursor: pointer;
+}
+.search-btn:hover {
+  background-color: #F0F0F0;
+}
+
+/* menu icons ko grid banaya 4 columns ke sath */
+.menu-icons {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  align-items: center;
+  gap: 1.5rem;
+}
+
+/* channel profile icon ko gol aur gray background rakha */
+.menu-channel-icon {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  background-color: #AAA;
+}

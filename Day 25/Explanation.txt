@@ -1,0 +1,24 @@
+
+
+Asalamualaiikum, on the Day 25 of this Amazing Virtual Internship
+
+
+Aaj ke task me mene GPA Calculator (Part II) banaya jo DOM (Document Object Model) aur JavaScript logic ka istemal karta 
+hai taa keh ek dynamic aur interactive web app ban sake. HTML structure simple hai,,,, isme 4 input boxes hain jahan user 
+apna GPA enter karta hai, ek button hai calculate karne ke liye, aur ek heading (<h2>) jahan result show hota hai. CSS ko 
+simple rakha gaya hai — background purple, beech me ek white box, rounded corners aur neat design. Media query se page mobile 
+devices par bhi theek se show hota hai, yani design responsive hai.
+
+Is project ka main focus DOM manipulation tha. Humne document.getElementById() ka use karke user ke inputs liye, aur ek loop 
+chalaya jo har subject ka GPA automatically check karta hai. parseFloat() ka use karke humne input ko number me badla taa keh 
+calculation ho sake. Conditions ke zariye humne ensure kiya ke GPA values 0 aur 4 ke darmiyan hoon.
+Agar values sahi hoti hain toh program average calculate karke result ko dynamically show karta hai using .innerText, aur uska 
+color bhi change karta hai using .style.color. Agar input galat ho toh warning message red color me show hota hai.
+
+Is task se I got to know ke JavaScript aur DOM mil kar kaise webpages ko interactive banate hain,,, user se data lena, 
+us par logic lagana, aur bina page reload kiye result dikhana. Yeh step humare liye ek strong base banata hai web development
+me aage badhne ke liye.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

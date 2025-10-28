@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎓 GPA Calculator (Part II)</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #7b2ff7;
+      text-align: center;
+      color: white;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      background: white;
+      color: black;
+      width: 320px;
+      margin: 20px auto;
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    input, button {
+      width: 90%;
+      padding: 8px;
+      margin: 6px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        width: 90%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>🎓 <br> GPA Calculator (Part II)</h1>
+
+  <div class="container">
+    <p>Enter GPA for each subject (out of 4.0):</p>
+
+    <input type="number" id="sub1" placeholder="Subject 1 GPA" step="0.01" min="0" max="4"><br>
+    <input type="number" id="sub2" placeholder="Subject 2 GPA" step="0.01" min="0" max="4"><br>
+    <input type="number" id="sub3" placeholder="Subject 3 GPA" step="0.01" min="0" max="4"><br>
+    <input type="number" id="sub4" placeholder="Subject 4 GPA" step="0.01" min="0" max="4"><br>
+
+
+    <button onclick="calculateGPA()">Calculate GPA</button>
+    <h2 id="result"></h2>
+  </div>
+
+  <script>
+    function calculateGPA() {
+      let total = 0;
+      let count = 0;
+
+      for (let i = 1; i <= 6; i++) {
+        let value = parseFloat(document.getElementById("sub" + i).value);
+        if (!isNaN(value) && value >= 0 && value <= 4) {
+          total += value;
+          count++;
+        }
+      }
+
+      let result = document.getElementById("result");
+
+      if (count > 0) {
+        let gpa = total / count;
+        result.innerText = "✅ Your Average GPA: " + gpa.toFixed(2);
+        result.style.color = "green";
+      } else {
+        result.innerText = "⚠️ Please enter valid GPA values!";
+        result.style.color = "red";
+      }
+    }
+  </script>
+
+</body>
+</html>

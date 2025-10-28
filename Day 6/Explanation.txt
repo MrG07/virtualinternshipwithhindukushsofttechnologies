@@ -1,0 +1,18 @@
+Aslamualaiikum, on the day 6 of the virtual internship.
+
+
+aaj maine apne resume webpage ke CSS part par focus kiya. Maine seekha ke <style> 
+tag ko <head> section ke andar kaise use karte hain CSS rules likhne ke liye. Maine 
+selectors jaise body, header, footer, h1, nav, section, table, th, td, ul, ol, form, 
+blockquote, aur img use kiye different elements ko style karne ke liye.
+
+CSS ke zariye maine background colors, text colors, font families, padding, margins, borders 
+set kiye taa ke page neat aur organized lage. Example ke taur par, maine header aur footer ko 
+dark background diya white text ke sath, aur tables ko readable banaya. Maine navigation links 
+aur buttons par hover effects bhi add kiye. Is process se mujhe samajh aya ke CSS kaise HTML elements 
+ki visual appearance control karta hai aur selectors specific tags ko target karke styles apply karte 
+hain. Isne meri resume ko zyada attractive aur readable bana diya.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

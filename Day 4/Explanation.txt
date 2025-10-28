@@ -1,0 +1,18 @@
+Aslamualaiikum, on the day 4 of the virtual internship.
+
+
+aaj ke is task me mene Semantic elements ke baare me padhaa, jaana ke yeh
+aiise html tags hote haiin joke apna meaning aur pupose page section me 
+clearly define karte haiin, yeh zarurii haii hamare code ko easy to read,
+banane ke liye aur saath hii accessability aur SEO ko improve karne ke liye.
+
+Aur apne is portfolio ko mene edit kiya aur yeh saare sematic tags ka use kiya 
+like <header> for name, image, aur navigation links, <nav> jo header ke inside 
+placed tha, <main> pura page ke main contenct ko wrap up karne ke liye, <section> 
+tag kar ek section content area ko separate karne ke liye, like the hobbies, social
+links, timetable, contanct and uhein mene upar wale navigation links ke saath add kiya. 
+uske baad <article> use kiya mene apne about section ke liye, joke ek self-contained 
+content tha, uske baad, <footer> ko at the end of the page thoda sa kuch likha about 
+the page. and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

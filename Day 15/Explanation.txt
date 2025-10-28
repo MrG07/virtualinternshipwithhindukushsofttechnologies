@@ -1,0 +1,34 @@
+
+
+Asalamualaiikum, on the Day 15 of this Amazing Virtual Internship
+
+
+Aaj maine ek simple aur clean webpage banaya hai University of Chitral ke liye, jisme maine HTML aur internal 
+CSS dono use kiye. Page me ek header, navigation bar, banner image, main content cards, aur footer shamil hain.
+
+Sabse pehle, header me university ka logo aur do links (“Email” aur “Jobs”) diye gaye hain. Header ko maine 
+display: flex; justify-content: space-between; se style kiya taa keh logo left side aur links right side me 
+barabar align ho jayein.
+
+Uske baad, ek navigation bar banaya gaya hai purple background ke saath, jisme six links diye gaye hain,, 
+Home, About, Admissions, Academics, Research, aur Contact. Jab mouse in links pe jata hai, to ye underline 
+ho jaate hain (:hover effect).
+
+Phir aata hai ek banner section, jisme maine admission image lagayi hai. Ye image poori width me stretch hoti 
+hai (width: 100%) aur object-fit: cover; se neatly fit hoti hai.
+
+Main content ke andar maine do rows banaye hain jisme cards hain — ek “Welcome Message” aur “VC Message”, aur 
+doosri row me “Latest News” aur “Upcoming Events”. In rows ko maine Flexbox ke through design kiya 
+(display: flex; flex-wrap: wrap;) taa keh ye automatically adjust ho jayein jab screen chhoti ho. 
+Har card ke andar white background, light border, aur halki si shadow di gayi hai taake design soft 
+aur professional lage.
+
+Page ke end me footer diya gaya hai jisme university ka address, phone number aur kuch footer links 
+(About, Contact, Privacy Policy) diye gaye hain. Footer ka background purple hai aur text white. 
+Links pe hover karne se underline effect aata hai.
+
+CSS me maine sabse upar global reset diya (margin: 0; padding: 0; box-sizing: border-box;) aur font family Arial set ki poore page ke liye
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

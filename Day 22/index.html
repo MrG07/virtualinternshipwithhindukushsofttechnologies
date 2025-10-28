@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learning DOM:02</title>
+</head>
+<body>
+  <h2>Register Form</h2>
+
+  <input id="username" type="text" placeholder="Enter your name">
+  <button id="submitBtn">Submit</button>
+
+  <p id="message"></p>
+
+  <script>
+    let btn = document.getElementById("submitBtn");
+    btn.addEventListener("click", function() {
+      let name = document.getElementById("username").value;
+      let message = document.getElementById("message");
+
+      if (name === "") {
+        message.innerHTML = "Please enter your name!";
+        message.style.color = "red";
+      } else {
+        message.innerHTML = "Form submitted successfully!";
+        message.style.color = "green";
+      }
+    });
+    
+  </script>
+</body>
+</html>

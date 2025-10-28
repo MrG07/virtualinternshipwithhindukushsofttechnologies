@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Learning DOM:01</title>
+  </head>
+  <body>
+
+    <h1 id="heading1">Einstein's Story</h1>
+    <p class="paragraph">Dr. Albert Einstein while leaving to swiss polytechnik said to Marie, "I will find a formula to freeze time, you won't evern know I'm gone.".</p>
+    <button onclick="changeContent()">Change Story</button>
+
+
+
+    <script>
+      function changeContent(){
+        let title = document.getElementById("heading1");
+        let para = document.querySelector(".paragraph");
+
+        title.innerHTML = "Nikola Tesla's Story";
+        para.innerHTML = "Nikola Tesla \'s last known communication with his mother, Georgina-Djuka Tesla, was a heartfelt letter expressing his yearning to be by her side and his deep sadness over the lack of recognition for his scientific work, stating, \"I wish I could be beside you now mother, to bring you a glass of water. All these years that I had spent in the service of mankind brought me nothing but insults and humiliation.";
+
+      }
+    </script>
+
+
+  </body>
+</html>

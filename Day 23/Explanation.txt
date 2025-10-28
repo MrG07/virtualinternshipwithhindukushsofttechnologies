@@ -1,0 +1,17 @@
+
+
+Asalamualaiikum, on the Day 23 of this Amazing Virtual Internship
+
+Aaj maine seekha ke kis tarah hum Git aur GitHub ka use karke apni website ko online upload aur publish 
+kar sakte hain. Maine samjha ke git init se hum apne project ko repository me convert karte hain, git 
+commit se apna kaam save karte hain, aur git push se usay GitHub pe bhejte hain. Phir maine GitHub Pages 
+ka use karna seekha jahan se hum apni website ko free me live kar sakte hain. “Settings → Pages” me jaake 
+jab maine branch aur root folder select kiya, to meri portfolio site ek link ke zariye online ho gayi. Aaj 
+ke task ne mujhe yeh samjhaya ke developers kis tarah apna kaam share karte hain aur Git version control se 
+apne projects ko safe aur organized rakhte hain.
+
+https://mrg07.github.io/portfolio-site/
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

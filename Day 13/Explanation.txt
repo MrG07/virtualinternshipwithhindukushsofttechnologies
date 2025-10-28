@@ -1,0 +1,16 @@
+
+
+Asalamualaiikum, on the Day 13 of this Amazing Virtual Internship
+
+Aaj maine ek basic Google homepage design kiya HTML aur CSS se. Logo ke liye maine 
+text ke bajaye ek image (logo.jpg) use ki aur uska width 272px rakha aur height auto 
+taa ke proportion sahi rahe. Uske neeche maine search box banaya jisme input[type="text"] 
+ko style karke rounded, wide aur professional look diya. Uske neeche maine buttons add 
+kiye jo light gray background aur hover effect ke sath Google ke jaise lagte hain. Aakhir 
+mein maine footer banaya jise position: fixed; aur display: flex; justify-content: space-between; 
+use karke bottom par set kiya aur links ko left aur right mein arrange kar diya. Is task mein maine 
+mainly margin, padding, border-radius, flexbox, aur hover effects practice kiye.
+
+and so on,,, Thank Youu :)
+
+Thank You Sir. Abu Zar and HindukushSoft Technologies, for this Opportunity.

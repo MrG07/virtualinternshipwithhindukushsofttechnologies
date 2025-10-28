@@ -1,0 +1,17 @@
+
+
+Asalamualaiikum, on the Day 29 of this Amazing Virtual Internship
+
+is task ke HTML part me image input, message box, encode/decode buttons aur output area diye gaye hain. 
+CSS ne design ko neat aur centered banaya hai, jisme white container aur hover effects hain.
+JavaScript main core logic hai:
+Image Preview: Jab user image upload karta hai, FileReader() se woh image preview me show hoti hai.
+Encode(): User ka message liya jata hai. Agar empty ho to warning, warna message storedMessage variable me store hota hai aur “encoded successfully” show hota hai.
+Decode(): Agar storedMessage empty hai to error dikhata hai, warna stored message display hota hai.
+
+Yahan se humne DOM handling, event listeners, aur data storage logic ka use seekha, jisse basic interactivity aur feedback system banaya gaya.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

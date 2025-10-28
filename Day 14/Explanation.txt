@@ -1,0 +1,34 @@
+
+
+Asalamualaiikum, on the Day 15 of this Amazing Virtual Internship
+
+Is project me maine ek YouTube-style homepage banaya. HTML part me sabse upar .header section banaya jisme
+YouTube logo, search bar aur menu icons (jaise upload, notification, profile icon) rakhe. Uske neeche maine 
+.categories section banaya jo pill-shaped filter buttons show karta hai. Fir main content area me multiple 
+.video-section hain jisme har ek ke andar .video-container hai. Har video container ke do parts hote hain: 
+ek .thumbnail jisme image aur data-duration attribute se video time dikhaya jata hai, aur doosra .video-bottom-section 
+jisme channel icon aur video details (title, channel name, views) aate hain.
+
+CSS part me sab elements ke liye box-sizing: border-box; aur default font family set ki. Layout banane ke liye .video-section 
+ko display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 5fr)); use kiya jo videos ko responsive columns me 
+arrange karta hai, aur gap, margin, aur padding se spacing adjust ki. Thumbnail pe position: relative; aur ::before pseudo-element 
+use karke video ka duration bottom-right corner me show hota hai. Channel icons ko gol banane ke liye border-radius: 50% use hua. 
+Categories ko button-style look dene ke liye border-radius: 900px; background-color diya aur active state me dark gray + white text 
+rakha. Header aur footer me display: flex; justify-content: space-between; use karke content left aur right me align kia. Search bar 
+ko flex-grow: 1; diya taa ke zyada width le, aur input + button ko smoothly connected design diya. Menu icons ko arrange karne ke 
+liye display: grid; grid-template-columns: repeat(4, auto); use hua.
+
+
+Is task se maine seekha ki Grid aur Flexbox ek saath use karke responsive aur structured layout banana kitna powerful hai. Grid ne video
+gallery ke columns manage kiye aur Flexbox ne header, search bar aur video details align karne me madad ki. Saath hi maine ::before pseudo-element 
+use karna seekha jisse extra content (video duration) directly HTML me likhe bina add kiya jaa sakta hai. Active states, hover effects aur 
+border-radius ke zariye maine styling aur interactivity improve karna bhi practice ki. Overall, ye task ek solid practice tha jo mere CSS 
+layout aur design understanding ko strong banata hai.
+
+
+
+I have also written comments in both files (html and css).
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

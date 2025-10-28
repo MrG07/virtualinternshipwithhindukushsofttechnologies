@@ -1,0 +1,21 @@
+
+
+Asalamualaiikum, on the Day 09 of this Amazing Virtual Internship
+
+Aaj maine samjha ke CSS ka Flexbox model ek powerful layout system hai jo developers 
+ko help karta hai responsive aur flexible web layouts banane mein. Ye system allow 
+karta hai ke container ke andar jo elements hain, wo automatically arrange aur align 
+ho jayein aur smoothly har screen size aur orientation ke sath adjust ho saken. Apne 
+HTML file main maine Flexbox ko navigation bar section main implement kiya taa ke 
+navigation links neat aur responsive rahen. .navbar class ko display: flex diya, jis 
+se Flexbox layout activate ho gaya aur uske child elements yani <a> tags flex items 
+ban gaye. justify-content: center use kiya taa ke links horizontally center ho jayein 
+aur menu balanced lage, aur align-items: center apply kiya taa ke links vertically bhi 
+center ho kar navbar ke height ke andar uniform nazar aayen. Flexbox use karne ka fayda 
+ye bhi hai ke ye purane aur rigid methods jaise tables ko replace karta hai aur modern 
+aur easy CSS provide karta hai. Is tarah navigation bar responsive aur visually consistent 
+ban gayi, aur user experience bhi improve ho gaya.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

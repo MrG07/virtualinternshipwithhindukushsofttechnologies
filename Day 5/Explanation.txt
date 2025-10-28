@@ -1,0 +1,16 @@
+Aslamualaiikum, on the day 5 of the virtual internship.
+
+
+aaj mene apna resume bananya, pechle 5 dinon me jo concepts seekhe the un 
+sab ko combine karke, <h1> <h2> <h3> ko use kiya apne resume me heading dene 
+ke liye, <img> use kiya apne picture add karne ke liye, <nav> aur <table> ka 
+use kiya navitaion links ke liye, aur baad me <table> ka dobara use kiya apne 
+skills include karne ke liye, <section> ka use code ko mukhlaif hisson me group 
+karne ke liye use kiya, like About Me, Education, Skills, Experience, Projects, 
+Hobbies, Social Links, Languages, Contact. list ka khaas use kiya <ul> aur <ol> ka, 
+aur saath hii laast me reach out ke liye ek form bhii banaya, using <form> tag. so in 
+overall allt the concerpts previously learnt have been included into this one.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

@@ -1,0 +1,24 @@
+
+
+Asalamualaiikum, on the Day 22 of this Amazing Virtual Internship
+
+
+Aaj maine ek chhoti si form validation ka task kiya jisme maine DOM events aur JavaScript 
+form checking dono ko use kiya. Page me ek input box aur ek submit button diya gaya hai. 
+Jab user “Submit” button pe click karta hai, to JavaScript ka function run hota hai jo 
+check karta hai ke user ne apna naam likha hai ya nahi.
+
+Sabse pehle maine document.getElementById("submitBtn") se button ko select kiya aur uspe 
+addEventListener("click", function(){...}) lagaya taa ke jab button click ho to ek function 
+execute ho. Is function ke andar maine input box ka value liya (document.getElementById("username").value) 
+aur phir condition lagai,,,,, agar input khaali ho to message show kare “Please enter your name!” 
+red color me (style.color = "red"). Agar user ne kuch likha hai to green color me success message 
+show kare “Form submitted successfully!”.
+
+Is task se maine seekha ke JavaScript ke zariye hum forms ko validate kar sakte hain aur DOM events 
+jaise addEventListener() se user actions par code chalaa sakte hain. Yeh simple logic form filling 
+ke errors ko rokta hai aur page ko interactive banata hai.
+
+
+and so on,,, Thank Youu :)
+Thank You HindukushSoft Technologies, for this Opportunity.

@@ -1,0 +1,19 @@
+
+
+Asalamualaiikum, on the Day 08 of the Fantatic Virtual Internship
+
+
+Aaj maine samjha ke CSS Display & Positioning ka basic idea ye hai ke hum decide karte hain ke
+elements page par kaise dikhain aur unki jagah kahan ho. Apne portfolio main maine in concepts 
+ko alag alag jagahon par use kiya. Navigation links ke liye maine display: inline-block use kiya 
+taa ke wo horizontally line main aayein aur unke darmiyan proper spacing ho. "About Me" section 
+main maine ek <span> ko display: block diya taa ke wo full width element ban kar highlight ho jaye 
+aur normal text ke sath mix na ho. Navigation bar main maine position: fixed use ki, jis se ye bar 
+scroll karte waqt bhi top par visible rehti hai aur navigation easy ho jata hai. Profile photo ke 
+liye maine .photo-container ko position: relative diya, aur uske andar .badge ko position: absolute 
+rakha taa ke wo photo ke upar exact jagah par overlay ho jaye. In sab techniques ne portfolio ko neat 
+banaya, navigation accessible kiya, aur important cheezon ko highlight karne main madad di.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

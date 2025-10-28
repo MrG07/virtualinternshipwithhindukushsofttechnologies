@@ -1,0 +1,25 @@
+
+
+Asalamualaiikum, on the Day 11 of this Amazing Virtual Internship
+
+Aaj maine apne portfolio ko mobile-friendly banane par kaam kiya jisme maine Media Queries 
+aur Responsive Units use kiye. Maine do breakpoints lagaye @media (max-width: 900px) aur 
+@media (max-width: 600px), taa ke layout tablets aur mobile screens par automatic adjust 
+ho jaye. Choti screens par navigation bar horizontal se vertical stack ban jata hai, font 
+sizes chhoti ho jaati hain aur paddings/margins kam kar diye jate hain taa ke sab kuch neat 
+lage. Maine responsive units jaise vw aur vh font sizes, paddings aur margins ke liye use 
+kiye — jaise headings ke liye font-size: 6vw aur padding ke liye 2vh 0. Isi tarah % aur vw 
+widths aur max-widths ke liye use kiye jaise max-width: 90vw; taa ke containers screen ke 
+hisaab se adjust ho saken. Form elements aur tables ke liye maine em units use kiye taa ke 
+wo text ke sath scale ho jayein. Images ko responsive banane ke liye max-width: 100%; height: auto; 
+set kiya, aur tables ko choti screens par horizontally scrollable banane ke liye 
+display: block; overflow-x: auto; use kiya. Navbar ke liye maine Flexbox use kiya
+desktop par display: flex aur mobile media query main flex-direction: column; taa 
+ke links vertical stack ho jayein. Aakhir main maine choti screens ke liye paddings 
+aur margins reduce kiye aur ensure kiya ke saare sections aur containers responsive 
+units par chal rahe ho. Is tarah maine apna portfolio har device par readable, neat 
+aur clean layout ke sath responsive bana diya. 
+
+and so on,,, Thank Youu :)
+
+Thank You Sir. Abu Zar and HindukushSoft Technologies, for this Opportunity.

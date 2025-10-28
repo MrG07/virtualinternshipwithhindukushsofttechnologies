@@ -1,0 +1,20 @@
+
+
+Asalamualaiikum, on the Day 18 of this Amazing Virtual Internship
+
+Is program me maine ek function-based greeting system banaya. Sabse pehle JavaScript me 
+prompt() use karke user ka naam manga gaya aur usse let name variable me store kiya. Uske 
+baad maine ek function greet() define kiya jo alert() ke zariye ek personalized greeting 
+message show karta hai jisme user ka naam bhi include hota hai aur usko motivate karne wali 
+line likhi hai.
+
+HTML part me maine ek heading (<h1>) rakhi jo batati hai ke button click karne par surprise 
+message milega. Uske neeche ek button banaya gaya jiska onclick=greet() attribute diya hai, 
+matlab jaise hi user button click karega, greet() function run hoga aur alert box me message 
+show hoga. CSS part me maine .allbody class ko display: grid; place-content: center; use karke page ke 
+content ko center me align kiya aur font-family: arial; se text ko simple style diya. Button 
+ke liye #mrbutton id use karke uska background green shade me set kiya.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

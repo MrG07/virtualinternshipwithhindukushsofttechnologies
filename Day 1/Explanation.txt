@@ -1,0 +1,11 @@
+Aslamualaiikum first of all thankyou for giving me this opportunity.
+
+Secondly, aaj mene HTML ke basics revise kiye, aur samjha ke simple web page ka structure kya hota haii aur 
+woh kam kaiise karta haii. Mene understand kiya ke har ek page start <!DOCTYPE html> se hota haii, jo ke 
+browser ko batata haii ke yeh HTML5 version ka document hai. Aur Saath hii main content <html> tag ke anda
+r hota haii, jo ko webpage ke liye container ki tarha hota haii, aur wahan 2 main parts hote haiin haiin 
+<head> aaur <body>. <head> ke andar page ke baare me information me hota haii, like the title, aur stylesheet
+ ke link karna waghaiira, aur body ke andar woh sab kuch hota haii jo webpage screen me dikhta haii. mene 
+heading <h1> to <h6> seekha, highlights dena seekhta. aur apne introduction ko likh ne ke liye <p> tag ka 
+use kiya. aur apna photo link karne ke liye <img> tag ka use kiye me ne, aur dusre attibute add karke image
+of personalized kiya. aur bohot kuch kiya, thank you for letting me go with it. Thank you HindukushSoft Technologies.

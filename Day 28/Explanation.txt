@@ -1,0 +1,18 @@
+
+
+Asalamualaiikum, on the Day 28 of this Amazing Virtual Internship
+
+
+iss task me HTML me sabse pehle ek header hai jisme app ka title likha gaya hai. Phir ek 
+container hai jisme do main sections hain — mode-switch aur app-section. Mode-switch me 
+do buttons hain (Encode aur Decode) taake user mode select kar sake. App-section me image 
+upload input, ek textarea (secret message likhne ke liye), aur ek button (Hide Message) 
+diya gaya hai. Neeche ek output box hai jahan result show hoga.
+
+CSS me simple aur modern design use hua haii— white container, rounded corners, aur 
+hover effects buttons par. Background light gray rakha gaya hai taake contrast clear ho.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

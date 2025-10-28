@@ -1,0 +1,26 @@
+
+
+Asalamualaiikum, on the Day 07 of the Fantatic Virtual Internship
+
+
+Aaj maine apne resume webpage ke hobbies section par kaam kiya. Mera task tha ke isko ek styled
+card ki tarah design karoon aur CSS Box Model practice karoon. Maine <section> tag use kiya jisme
+hobbies ka content rakha, aur CSS ke zariye isko style kiya. Background color white rakha, andar
+ki taraf padding di taa ke content ko space mile, aur bahar ki taraf margin di taa ke section center 
+ho jaye. Iske alawa maine border lagaya aur border-radius diya taa ke corners smooth aur card jese 
+lagen. Size control karne ke liye maine width, height, aur max-width use kiya.
+
+CSS Topics jo maine samjhe:
+
+Box Model – margin, padding, border aur width/height ka element par asar.
+Backgrounds – readability improve karne ke liye color set karna.
+Borders & Border Radius – section ko neat aur card-jese look dena.
+Width & Max-Width – layout ko control karna.
+Centering – margin auto se section ko beech me lana.
+
+Overall Idea is exercise ka Ye exercise isliye tha ke mujhe samajh aaye ke CSS Box Model aur dusre 
+properties HTML elements ko visually structured aur professional banate hain.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

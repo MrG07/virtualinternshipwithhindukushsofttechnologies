@@ -1,0 +1,38 @@
+
+
+Asalamualaiikum, on the Day 27 of this Amazing Virtual Internship
+
+
+iss task me maiine One-Page Portfolio (Part II) banaya jisme HTML, CSS aur JavaScript teenon ka 
+combination use hua hai. Yeh task hume batata hai ke ek real interactive website kaise banayi 
+jaati hai jisme animation aur user interaction dono shaamil hote hain.
+
+Sabse pehle HTML structure me humne 4 main sections banaye — Header, About, Projects, aur Contact. 
+Header me navigation links diye gaye hain jinke zariye user page ke mukhtalif sections par easily 
+jaa sakta hai. CSS me humne simple aur clean design rakha hai — background light grey, header dark, 
+aur text white color me. position: sticky; se header scroll karte waqt top par fixed rehta hai, aur 
+scroll-behavior: smooth; se page smoothly scroll hota hai.
+
+Animations ke liye do keyframes banaye,,,, fadeInDown aur fadeUp. Header page ke top se neeche 
+smoothly appear hota hai, jabke har section ek soft slide ke saath screen par nazar aata hai. Card 
+hover effect se user interaction visually better lagta hai, jisme card thoda upar uthta hai aur 
+shadow deep hoti hai.
+
+JavaScript ka main kaam yahan DOM ke zariye interactivity lana hai. document.getElementById() ka 
+use karke humne elements ko access kiya aur unke content ko dynamically badla. Contact section me 
+addEventListener("click") lagaya gaya hai — jab user “Send” button press karta hai, to uska naam 
+check hota hai. Agar input khali ho to red warning show hoti hai, warna green thank-you message 
+appear hota hai.
+
+Dusra interactive feature “Read More” button hai, jisme toggleAbout() function ke through paragraph 
+text ko dynamically change kiya gaya hai chhoti aur lambi version ke darmiyan switch hota hai. Yeh 
+feature ek real-world website jaise feel deta hai.
+
+Aaj ke task se hume seekhne ko mila ke DOM events aur CSS animations mil kar ek engaging user experience 
+create karte hain. Yeh ek complete example tha HTML (structure), CSS (design), aur JS (behavior) ke perfect 
+combination ka,,,, jo ek modern portfolio website ki base hai.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

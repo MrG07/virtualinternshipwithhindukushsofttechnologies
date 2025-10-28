@@ -1,0 +1,21 @@
+
+
+Asalamualaiikum, on the Day 16 of this Amazing Virtual Internship
+
+Aaj maine ek simple JavaScript practice code likha. Isme sabse pehle maine variables 
+declare karna seekha. var name = "Saood Masood"; likha jo ek global variable hai aur 
+old style me use hota tha. Phir maine let dateofbirth = 2008; banaya jo block variable 
+hai aur modern JS me zyada use hota hai. Uske baad maine const country = "Pakistan"; 
+banaya jo ek constant variable hai jiska value change nahi hota.
+
+Uske baad maine alag-alag data types use kiye. Ek boolean variable (student = true), ek number (age = 17), 
+ek string (favoriteHobby = "Coding"), ek character (grade = 'A+'), ek float (percentage = 97.5), 
+aur ek array (subjects = ["Math", "Science", "Coding"]).
+
+Phir maine console.log() use kiya jo output browser ke console me print karta hai. Maine apna name, age, aur favorite hobby print karwaye:
+Aakhir me maine alert("Day 16 tasks pura hua") likha jo ek popup box show karta hai aur user ko message deta hai.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

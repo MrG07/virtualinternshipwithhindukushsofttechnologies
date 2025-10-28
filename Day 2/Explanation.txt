@@ -1,0 +1,11 @@
+Aslamualaiikum, on the day 2 of the virtual internship.
+
+
+Aaj mene html me <blockquote> use karna seekha aur apne favorite quotes me se ek es page me add kardiya. 
+Phir <ul> unordered lists ke saath, jo ke items ko bullet points ke saath show karte haiin, apne hobbies 
+likhe index file me aur saath hi apne 2 social media accounts link kiye using <ol> ordered lists ke saath, 
+jo ke items ko numbers ke saath show karta haii. Aur social media links add karne me, mene <a> tag ka help 
+liye aur saath hi <u> ko underlined karne ke liye use kiya for the topics, aur <em> ko bhii use kar saath 
+hi <strong> tag ko bhii use kiya, aur in donon ke darmiyan difference bhii seekhe. 
+
+Thank You HindukushSoft Technologies, for this Opportunity.

@@ -1,0 +1,20 @@
+
+
+Asalamualaiikum, on the Day 19 of this Amazing Virtual Internship
+
+Aaj maine ek simple shopping list generator banaya using JavaScript. Program start 
+hotay hi maine prompt() use karke user se poocha ke woh kitni cheezein khareedne 
+ja raha hai, aur uss value ko itemstoBuy me store kiya. Phir maine ek counter 
+numofItems = 0 rakha aur ek khaali array shoppingList = [] banaya jisme sab items 
+add honge. Uske baad maine ek while loop lagaya jo tab tak chalta hai jab tak 
+numofItems <= itemstoBuy. Har dafa loop ke andar user se ek naya item name poocha 
+jaata hai aur woh item shoppingList.push(item) se array me add hota hai. Har input 
+ke baad numofItems++ se counter ek barh jaata hai.
+
+Jab saari cheezein enter ho jaati hain to program ek alert() deta hai ke “Please open the console to check the Shopping List.” 
+Uske baad maine ek for loop use kiya jo array ke har item ko console me print karta hai console.log(shoppingList[i]) ke zariye. 
+Aakhir me maine total items ka number print karwaya using shoppingList.length.
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

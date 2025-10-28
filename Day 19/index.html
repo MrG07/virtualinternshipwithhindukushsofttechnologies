@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lets Learn JS:04</title>
+
+    <script>
+
+      let itemstoBuy = prompt("Can you tell me how many items are you goanna buy? Starting from 0: ");
+      let numofItems = 0;
+      let shoppingList = [];
+      while (numofItems <= itemstoBuy) {
+        item = prompt("Name of the Item: ")
+        shoppingList.push(item)
+        numofItems++;
+      };
+
+      alert("Please open the console to check the Shopping List.")
+
+
+      console.log("SHOPPING LIST:")
+      console.log("_______________________")
+      for(let i=0; i<shoppingList.length; i++){
+        console.log(shoppingList[i])
+      }
+      console.log("_______________________")
+      console.log("Total Items: " + shoppingList.length)
+
+
+    </script>
+
+
+  </head>
+  <body>
+  </body>
+
+</html>

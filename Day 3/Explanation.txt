@@ -1,0 +1,13 @@
+Aslamualaiikum, on the day 3 of the virtual internship.
+
+
+Aaj mene Tables aur form tags ka use kiya apne portfolio ko behtar banane ke liye.
+Time table banane ke kiye, I used <table> tag, aur saath hii <tr> for rows, <td> 
+for table data, aur <th> for table header. in sab ka use karke I built my own time table. 
+
+uske baad I build an reach of message form using the <form> tag ka use kiya aur wahan mene
+<label> <input> aur dusre important concepts clear kiye. aur apne liye reach out form banaya, 
+ke agar koii student mujhse raabta karna chaahta ho toh through this form pehle apne information 
+add karega phir mujhe send karega by clicking the button joke <button> tag kii madad se banaya gaya haii.
+
+Thank You HindukushSoft Technologies, for this Opportunity.

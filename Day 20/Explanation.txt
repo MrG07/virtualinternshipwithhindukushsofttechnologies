@@ -1,0 +1,34 @@
+
+
+Asalamualaiikum, on the Day 20 of this Amazing Virtual Internship
+
+
+Aaj maine ek simple aur fully working To-Do List App banaya using HTML, CSS aur JavaScript. Yeh app user ko allow 
+karta hai ke woh apne daily tasks likhe aur delete kare jab woh complete ho jaayein.
+
+Sabse pehle maine HTML me basic structure banaya, ek heading di “To-Do List”, ek input box jahan user apna task likhta 
+hai, aur ek button “Add” jo click karne par JavaScript function addTask() chalaata hai. Neeche ek <ul> tag rakha jahan 
+saare tasks list form me show hote hain.
+
+CSS me maine poori page ko thoda neat aur clean look diya. Background ko light grey rakha, input box aur buttons ko 
+rounded corners aur padding di. Har task ek chhoti white card jaisa lagta hai, jiske right side par red color ka Delete 
+button hota hai. Hover karne par color thoda dark ho jaata hai, isse professional feel milti hai.
+
+Ab main part tha JavaScript, jahan main logic likha. Function addTask() tab run hota hai jab user “Add” button click 
+karta hai. Pehle maine document.getElementById("taskInput") se input box access kiya aur input.value se user ka likha 
+hua text liya. Agar input khaali hota hai to ek alert() show hota hai “Please write something!”.
+
+Agar user ne kuch likha ho to code ek naya <li> (list item) banata hai using document.createElement("li") aur uske andar 
+user ka likha text rakhta hai. Phir ek naya “Delete” button banaya using document.createElement("button"). Uske andar text 
+"Delete" likha aur ek onclick function diya jo li.remove() karta hai — matlab jab button click hota hai to woh specific 
+task list se gayab ho jaata hai.
+
+Uske baad maine li.appendChild(del) se button ko uss list item ke andar daal diya, aur document.getElementById("taskList").appendChild(li) 
+se poora list item HTML me show kar diya. Akhir me input.value = "" se text box clear kar diya taa ke user naya task likh sake. Is project 
+se maine samjha ke JavaScript se hum web page ke HTML elements ko kaise create, change aur delete kar sakte hain. createElement, appendChild, 
+aur getElementById jaise functions bohot useful lage. CSS aur HTML ke sath mil kar JavaScript ne page ko “interactive” bana diya.
+
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

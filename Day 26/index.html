@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My Portfolio</title>
+  <style>
+    body { 
+      font-family: Arial; 
+      margin: 0; 
+      padding: 0; 
+      background: #f4f4f4; }
+    header { 
+      background: #333; 
+      color: white; 
+      text-align: center; 
+      padding: 15px; }
+    nav a { 
+      color: #ffffff; 
+      margin: 10px; 
+      text-decoration: none; }
+    .section { 
+      padding: 40px; 
+      text-align: center; }
+    .projects { 
+      display: flex; 
+      justify-content: center; 
+      gap: 20px; 
+      flex-wrap: wrap; }
+    .card { 
+      background: white; 
+      padding: 15px; 
+      border-radius: 8px; 
+      width: 300px; 
+      box-shadow: 0 0 5px #aaa; }
+    button { 
+      padding: 7px 10px; 
+      background: #333; 
+      color: white; 
+      border: none; 
+      border-radius: 5px; 
+      cursor: pointer; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Saood Masood</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about" class="section">
+    <h2>About Me</h2>
+    <p>I am Saoud Masood, a passionate and hardworking student with a strong interest in computer science, physics, and mathematics. I’ve consistently excelled in academics, securing top positions in my district, while also leading in sports as a cricket captain and football goalkeeper. Beyond studies, I am a writer and storyteller, working on projects like SaudiiWrites. I aspire to become a Computer Science Expert and am currently building innovative projects such as AI assistants and chatbots. With a vision to empower others, I plan to create an NGO that offers free educational sessions, online courses, and student guidance.</p>
+  </section>
+
+  <section id="projects" class="section">
+    <h2>My Projects</h2>
+    <div class="projects">
+      <div class="card"><h3>DodoAI</h3><p>A personal virtual assistant designed to control your entire device, answer questions, provide suggestions, and perform advanced functions like Jarvis.</p></div>
+      <div class="card"><h3>FridayAI</h3><p>A locally running AI chatbot with a voice-to-voice anime-style interactive interface, offering conversational and task-assisting features.</p></div>
+      <div class="card"><h3>AdlAssist AI</h3><p>An AI model for the law and judiciary field, focused on classifying, analyzing, and summarizing court cases to assist legal processes.</p></div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact Me</h2>
+    <input id="name" type="text" placeholder="Your Name">
+    <button onclick="showMsg()">Send</button>
+    <p id="message"></p>
+  </section>
+
+  <script>
+    function showMsg() {
+      let user = document.getElementById("name").value;
+      let msg = document.getElementById("message");
+      msg.innerText = user ? `Hello ${user}, thanks for visiting my portfolio! I will surely get back to you.` : "Please enter your name!";
+    }
+  </script>
+
+</body>
+</html>

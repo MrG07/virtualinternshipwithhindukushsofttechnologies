@@ -1,0 +1,21 @@
+
+
+Asalamualaiikum, on the Day 17 of this Amazing Virtual Internship
+
+Is task se maine seekha ke kaise prompt() ke zariye input liya jaata hai, kaise alert() 
+ke zariye output dikhaya jaata hai, aur kaise if–else condition use karke logical decisions 
+liye jaate hain. Ye program real-life scenario (voting eligibility check) ka simple example 
+hai jo JavaScript ke basics — input, output, aur conditions samjhata hai.
+
+
+Is program me maine JavaScript ka use karke ek simple voting eligibility checker banaya. 
+Sabse pehle alert("We are checking whether you can vote or not.") likha jo ek popup message 
+show karta hai user ko batane ke liye ke program kya karega. Uske baad maine prompt() use 
+karke user se input liya: pehle name, phir age.
+Phir maine ek if–else condition use ki. Agar age >= 18 hai to ek success message dikhata 
+hai: "Congrats [name], you can vote." Warna, else block execute hota hai aur message show 
+karta hai: "Sorry [name], you are underage."
+
+and so on,,, Thank Youu :)
+
+Thank You HindukushSoft Technologies, for this Opportunity.

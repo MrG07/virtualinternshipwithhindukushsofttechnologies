@@ -1,0 +1,27 @@
+
+
+Asalamualaiikum, on the Day 12 of this Amazing Virtual Internship
+
+Aaj maine apne hobbies page ke liye ek 3-column gallery layout banaya jisme maine CSS Grid use kiya. 
+Maine .gallery-grid container ko display: grid; diya taa ke uske andar jo images hain wo grid items 
+ban jayein. Phir maine grid-template-columns: repeat(3, 1fr); use kiya jisse container teen equal 
+columns main divide ho gaya (1fr + 1fr + 1fr). Is tarah har image apne column ka ek hissa leti hai
+aur ek neat 3-column gallery ban jati hai. Spacing ke liye maine gap: 2vw; rakha jisse images ke 
+darmiyan equal space aa gaya.
+
+Har image ko maine width: 100%; height: auto; diya taa ke wo apne column ke andar perfectly fit ho 
+jaye aur apna aspect ratio maintain kare. Saath hi maine border-radius: 10px; diya jisse corners 
+rounded ho gaye aur box-shadow se halka sa shadow effect add kiya jo gallery ko card-like look deta 
+hai. Hover ke liye maine transition: transform 0.3s; lagaya.
+
+Is task ka main learning point ye tha ke CSS Grid se layout banana bohot simple ho jata hai:
+
+   1. display: grid se container grid ban gaya.
+   2. grid-template-columns se columns define huwe.
+   3. gap se spacing control hui.
+
+Is tarah maine modern aur scalable gallery sirf kuch lines of CSS Grid code se design kar li.
+
+and so on,,, Thank Youu :)
+
+Thank You Sir. Abu Zar and HindukushSoft Technologies, for this Opportunity.
