@@ -12,15 +12,16 @@ App.js ke andar humne pehle useState import kiya. Phir humne do state variables 
 count — jo number rakhta hai (0 se start hota hai),
 isDark — jo theme (light/dark) ko control karta hai.
 
-Har button ke click par humne functions lagaye — ek count ko increase karta hai, doosra decrease, aur teesra reset. Theme toggle button background 
-aur text color ko change karta hai, jis se app modern aur interactive lagti hai.
+Har button ke click par humne functions lagaye — ek count ko increase karta hai, doosra decrease, aur teesra reset. Theme 
+toggle button background aur text color ko change karta hai, jis se app modern aur interactive lagti hai.
 
-CSS bohot simple rakha taake color aur layout easily samjha jaa sake. Agar user “Toggle Theme” button par click karta hai, toh React automatically 
-screen ko update karta hai bina page reload ke — yeh React ke reactivity system ki wajah se hota hai.
+CSS bohot simple rakha taake color aur layout easily samjha jaa sake. Agar user “Toggle Theme” button par click karta hai, 
+toh React automatically screen ko update karta hai bina page reload ke — yeh React ke reactivity system ki wajah se hota hai.
 
 
 
 Link to Github Repo:
+https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies/tree/main/Day%2033/ustate-countingapp-themetoggle
 
 
 

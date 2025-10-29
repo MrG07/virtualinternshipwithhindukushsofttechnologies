@@ -1,0 +1,27 @@
+
+
+Asalamualaiikum, on the Day 34 of this Amazing Virtual Internship
+
+Is project mein maine ek simple React app banaya jismein user apna naam likhta hai aur woh screen par live preview hota hai. 
+Sabse pehle maine useState hook ka use kiya,,, ye React ka ek built-in feature hai jo variable ke value ko track karta hai aur 
+jab wo change hota hai to page automatically update hota hai. Yahaan maine name state banayi hai aur usay update karne ke liye 
+setName function use kiya.
+
+handleInput function har dafa run hota hai jab user input field mein kuch likhta hai. Ye function event.target.value se input 
+value le kar setName ke zariye name state ko update karta hai. clearInput function button click hone par naam ko blank kar deta 
+hai, yaani state ko dobara empty string set karta hai.
+
+return ke andar jo JSX likha gaya hai, wo browser par render hota hai. Isme ek text box, ek clear button, aur ek heading hai 
+jo user ka naam show karta hai. Agar user ne kuch nahi likha, to “Stranger” show hota hai. CSS styles inline diye gaye hain 
+camelCase format mein (jaise textAlign, borderRadius), kyunki JSX mein ye syntax required hota hai. 
+
+Overall, ye task React events onChange aur onClick ke use ko samajhne ke liye tha,, taake hum samajh sakein ke React kis tarah 
+user ke input aur actions ke mutabiq page ko instantly update karta hai.
+
+
+Link to Github Repo:
+
+
+
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
