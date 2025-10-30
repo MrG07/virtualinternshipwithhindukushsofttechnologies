@@ -1,0 +1,25 @@
+
+
+Asalamualaiikum, on the Day 36 of this Amazing Virtual Internship
+
+iske task, yanii pechle wale ke part 02 me, maine apne Profile App ko aur improve kiya. Pehle part mein humne 
+basic layout banaya tha, lekin iss part mein maine React props aur CSS styling ka use seekha. Props ka kaam 
+hota hai data ko ek component se doosre component mein bhejna jaise maine ProfileCard component ko name, bio, 
+aur image bheje. Yeh props mujhe har jagah dynamic content dikhane ka mauqa dete hain, bina code repeat kiye.
+
+ProfileCard ke andar {} curly brackets use kiye taake JavaScript expressions likh sakun jaise {props.name} aur {props.bio}. 
+Isse React samajhta hai ke mujhe variable ka value screen par render karna hai. Saath hi maine CSS module import kiya jisse 
+styles sirf is component tak limited rahe, aur koi conflict na ho.
+
+Is project ke baad mujhe samajh aaya ke React mein components aur props milkar code ko modular, clean aur reusable bana 
+dete hain. Yeh concept real-world apps ke liye bohot zaroori hai, kyunki har cheez ko alag-alag component mein tod kar 
+manage karna React ka sabse bada strength hai.
+
+
+Link to Github Repo:
+
+
+
+
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
