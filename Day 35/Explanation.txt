@@ -1,0 +1,24 @@
+
+
+Asalamualaiikum, on the Day 35 of this Amazing Virtual Internship
+
+Aaj maine React mein apna pehla Profile App (Part I – Layout) banaya. Is task ka main focus tha React components 
+aur styling ko samajhna. Maine 3 basic components banaye: Header, ProfileCard, aur Footer. Har component ko separate 
+function ke through likha, jise baad in sab ko main App.js file mein import karke combine kiya.
+
+Header component simple title show karta hai “My Profile App”, jabke Footer component neeche copyright text display 
+karta hai. Sabse important component ProfileCard tha jisme maine apni image, naam, aur short description add ki. 
+Image ko center aur circular shape mein show karne ke liye inline CSS styling use kiyaa,,Yeh styling React ke andar 
+object ke form mein hotaa haii.
+
+Is poore layout ka purpose tha ek base structure banana jisme aage jaake hum styling aur interactivity add kar sakein. 
+React components ki modular structure ke wajah se har part easily manage aur reuse kiya ja sakta hai. Overall, maine 
+seekha ke React mein UI ko small, reusable pieces mein divide karke manage karna kitna easy hota hai.
+
+
+Link to Github Repo:
+
+
+
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
