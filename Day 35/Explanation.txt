@@ -18,6 +18,7 @@ seekha ke React mein UI ko small, reusable pieces mein divide karke manage karna
 
 Link to Github Repo:
 
+https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies/tree/main/Day%2035/profileapp-part01
 
 
 
