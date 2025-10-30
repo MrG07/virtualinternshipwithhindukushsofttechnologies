@@ -1,0 +1,41 @@
+.light {
+  text-align: center;
+  background: hsl(0, 0%, 100%);
+  color: black;
+  transition: 0.3s;
+}
+
+.dark {
+  text-align: center;
+  background: #222;
+  color: white;
+  transition: 0.3s;
+}
+
+.themeBtn {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.themeBtn:hover {
+  background: #0056b3;
+}
+
+.counter button {
+  margin-top: 10px;
+  padding: 8px 15px;
+  background: #250275;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.counter button:hover {
+  background: #e68900;
+}

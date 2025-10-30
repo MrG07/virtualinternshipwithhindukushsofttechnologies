@@ -1,0 +1,25 @@
+
+
+Asalamualaiikum, on the Day 37 of this Amazing Virtual Internship
+
+Aaj ke task me maine apna React Profile App poora complete kiya, yanii yeh part 03 haii, jisme maine dark mode, counter, 
+aur interactivity add ki. Ye project basically Day 35 aur Day 36 ke concepts ka advanced version hai.
+
+Sabse pehle, maine useState hook use kiya do cheezon ke liye,,, ek theme toggle ke liye (light aur dark mode switch karne ke liye), 
+aur doosra followers counter ke liye jo har bar button click pe increase hota hai.
+
+App.js me maine ProfileCard component import kiya, aur props ke zariye name, bio aur image pass kiye. Fir maine ek button banaya 
+jisse theme badal sakte hain. Jab theme change hota hai, to background aur text color dono dynamic tor par change hote hain,, 
+ye sab React ke state aur inline styling ke zariye hota hai. CSS Modules is liye use kiye gaye kyunke ye styles ko unique rakhte 
+hain, taki ek component ke styles doosre component pe apply na ho.
+
+Maine ye bhi ensure kiya ke layout responsive aur neat ho. Har element smoothly adjust hota hai, aur theme toggle karte waqt poori
+site me ek professional transition feel aati hai. Iss task ne mujhe sikhaya ke React me interactivity aur theming kaise implement 
+hoti hai aur UI ko user-friendly kaise banate hain.
+
+
+Link to Github Repo:
+
+
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
