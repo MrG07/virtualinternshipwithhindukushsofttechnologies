@@ -3,13 +3,13 @@ import "./App.css";
 import UserCard from "./components/UserCard";
 
 function App() {
-  const [username, setUsername] = useState(""); // user input
-  const [userData, setUserData] = useState(null); // store GitHub data
+  const [username, setUsername] = useState(""); 
+  const [userData, setUserData] = useState(null); 
   const [error, setError] = useState(""); 
 
   async function getUserData() {
     if (username === "") {
-      setError("⚠️ Please enter a username!");
+      setError("Please enter a username!");
       setUserData(null);
       return;
     }
