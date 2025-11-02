@@ -1,0 +1,32 @@
+
+
+Asalamualaiikum, on the Day 39 of this Amazing Virtual Internship
+
+
+Yeh project Weather Finder App mera aik chhota lekin professional React.js capstone project tha jismein maine 
+real-time weather data ko fetch karke browser par show karna seekha. Is app mein maine React Hooks (useState), 
+API calls (fetch + async/await) aur error handling ka istemal kiya.
+
+Jab user Search button par click karta hai, app WeatherAPI se data laati hai using fetch aur async/await. Agar 
+city valid ho to weather card show hota hai jismein temperature, condition, wind speed aur humidity show hota 
+hai; agar city galat ho to error message red color mein aata hai. UI ko maine modern aur responsive design diya 
+hai with gradient background aur rounded cards.
+
+Is project ne mujhe real-world React development samajhne mein madad ki.
+Maine seekha ke API se data kaise fetch karte hain, use display kaise karte hain, aur errors ko handle kaise 
+karte hain. Yeh project mujhe ek confident React developer banne ki taraf le gaya jahan coding aur design dono 
+skills ek sath istemal hue.
+
+
+.......................................
+this took me too much time  to make 😂
+.......................................
+
+________________________________________________________________________________________________________________
+
+LINK TO GITHUB REPO:
+
+https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies/tree/main/Day%2039/weather-app
+________________________________________________________________________________________________________________
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
