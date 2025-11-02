@@ -1,0 +1,25 @@
+
+
+Asalamualaiikum, on the Day 38 of this Amazing Virtual Internship
+
+
+Is project me maiiine ek GitHub User Finder App banaya jo kisi bhi GitHub user ka username likhne par uska profile data 
+real-time mein fetch karti hai,, jaise uska naam, username, avatar (photo) aur bio. Is project ka main maqsad tha API Calls, 
+async/await, aur React ke dynamic data handling ko practically samajhna.
+
+Yahan humne fetch() function ka use karke GitHub API se data liya hai. Ye ek request bhejta hai aur jab tak response nahi aata, 
+code rukta nahi. async function ka matlab hai ke wo asynchronously chalega (yaani background mein). await keyword ka matlab hai 
+ke code ruk kar API ke jawab ka intezaar karega.
+
+
+Is project ke zariye mujhe seekhne ko mila ke kaise real-time data APIs se fetch karte hain, kaise async/await se asynchronous
+code likhte hain, aur kaise errors handle karte hain.
+
+________________________________________________________________________________________________________________
+
+LINK TO GITHUB REPO:
+
+https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies/tree/main/Day%2037/profileapp-part03
+________________________________________________________________________________________________________________
+
+Thank You to the HindukushSoft Technologies, for this Opportunity.
